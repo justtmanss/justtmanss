@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **AI, ML, MERN Stack, Backend Dev**
 
-- 📫 How to reach me **manasvi.g,agrawal@gmail.com**
+- 📫 How to reach me **manasvi.g.agrawal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NULHtPore1ZxXFl40cgqm9NAtwJAatSW/view?usp=sharing](https://drive.google.com/file/d/1NULHtPore1ZxXFl40cgqm9NAtwJAatSW/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1NULHtPore1ZxXFl40cgqm9NAtwJAatSW/view?usp=sharing)
 
 - ⚡ Fun fact **I speak 7 "human" languages**
 
