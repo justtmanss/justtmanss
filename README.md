@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manasvi Agrawal</h1>
 <h3 align="center">I'm a third-year Computer Science student passionate about AI/ML, Data Science, and Cybersecurity, with strong expertise in the MERN Stack, System Programming, and Cloud Technologies.</h3>
 
-- 🔭 I’m currently working on [Synesthesia Composer](https://github.com/AakashV147/Synesthesia-Composer)
+- 🔭 I’m currently working on [Synesthesia Composer](https://github.com/AakashV147/medismiles-intro)
 
 - 🌱 I’m currently learning **Docker, Kubernetes ,Flutter**
 
